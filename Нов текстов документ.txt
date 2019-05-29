@@ -1,4 +1,4 @@
-Steps to reproduce:
+Steps to reproduce:-edit
 1.open the bank
 2.Enter -1000000
 3.Click send
