@@ -1,0 +1,10 @@
+Steps to reproduce:
+1.open the bank
+2.Enter -1000000
+3.Click send
+
+Expected result:
+-Error. Can not add negative money.
+
+Actual result:
+Negative money were added
